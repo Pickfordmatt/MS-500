@@ -1,1 +1,3 @@
+Once authenticated Azure generates an access token for a user which determins the reources that they can access. 
+
 
